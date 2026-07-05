@@ -372,12 +372,4 @@ B.Tech Computer Science (AI/ML)
 - GitHub: https://github.com/rahulkumarcse27
 - LinkedIn: https://linkedin.com/in/rahulkumarcse27
 
----
 
-# ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
----
-
-**Built with ❤️ using FastAPI, Next.js, ChromaDB, Ollama, and Llama 3.2**
